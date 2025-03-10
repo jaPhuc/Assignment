@@ -28,7 +28,7 @@
         .user-greeting {
             color: #e0e0e0;
             font-weight: 700;
-            font-size: 1.5rem;
+            font-size: 1rem;
         }
         
         /* Thiết kế FPT với khung nền */
